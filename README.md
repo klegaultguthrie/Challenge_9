@@ -5,7 +5,7 @@ The purpose of this analysis is to provide information about temperature trends 
 
 ## Results:
 Weather data was retrieved from a database and summary statistics were generated as shwn in Fig.1 below.
-![
+! [https://github.com/klegaultguthrie/Challenge_9/blob/main/Temp_statistics.png]
 
 
 
